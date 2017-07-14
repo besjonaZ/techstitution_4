@@ -1,0 +1,46 @@
+{
+ "1.operator": " Civil Aviation",
+ "occurrence": {
+   "2.date of occurrence": "03.03.2017",
+   "3.local time of occurrence": "16:50",
+   "10.location of occurrence": "Kosova "
+ },
+ "flight":{
+   "4.flight date": "28.02.2017 09:00",
+   "5.flight number": 211240
+ },
+ "department": {
+   "6.departure airport": ["Prishtina", "Skopje", "Vienna"],
+   "7.destination airport": ["Prishtina", "Milano", "Dusseldorf"]
+ },
+ "aircraft": {
+   "8.aircraft type": ["Boeing 737-800", "Airbus A320", "Airbus A321", "Airbus A319"],
+   "9.aircraft registration": 15546564216
+ },
+ "11.origin of the goods:": "Kosova,Prishtina",
+"12.description of the occurance, including details of injury, damage, etc.": "max 150 characters ",
+ "13. proper shipping name -including technical name": "dangerous goods" ,
+ "14.UN/ID no.":23451 ,
+ "class/division": ["A/13", "A/2" ],
+ "subsidary risks":"unknown",
+ "packing" : {
+   "17. packing group":" glass",
+   "18.category, class 7":"broken material",
+   "19.type of packing":"hard paper",
+   "20.packing specification marking":"hard paper"
+ },
+  "information":{
+    "27. name of person marking report:": "Besjona Zogaj",
+    "28.telephone no.:":"+37744211211",
+    "31.adress:":"Prishtina",
+    "32.date/signature:":"blank",
+  },
+  "description of the occurance-continuation:":"max 150 characters",
+  "notes":"It is important that this form is completed in as much detail as possible; this will help to avoid delays in processing the report and unnecessary additional work by both the reporter and the CAAK.
+Any type of dangerous goods occurrence must be reported, irrespective of whether the dangerous goods are contained in cargo, mail or baggage."
+
+
+
+
+
+}
