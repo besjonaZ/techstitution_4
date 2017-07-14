@@ -1,3 +1,2 @@
-# techstitution_4
-description of the project
-desc of project
+# flask-minimal-app-with-mongo
+flask-minimal-app-with-mongo

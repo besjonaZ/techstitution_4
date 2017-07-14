@@ -1,0 +1,24 @@
+<head>
+  <title>techsitution4</title>
+  <link rel="stylesheet"href="{{}}"
+</head>
+<body>
+  <p>
+    Add new audit
+  </p>
+  <form method="POST">
+
+      Audit name:<input type="text" name="audit_name" /><br/><br/>
+
+      Audit ref num: <input type="number" name="ref_num" /><br/><br/>
+
+      <input type="submit" value="Add Audit" />
+
+      </form>
+      Results from db
+    {%for audit in audits%}
+    <p>{{audit.audit_name}}-{{audit.audit_ref}}</p>
+    {%endfor%}
+    <script src="{{}}"></script>
+    </body>
+    </html>
